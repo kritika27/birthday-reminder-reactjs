@@ -27,7 +27,7 @@ const data = [
     id: 4,
     name: "Sean Walsh",
     day: 30,
-    month: "january",
+    month: "february",
     image:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
   },
@@ -35,7 +35,7 @@ const data = [
     id: 5,
     name: "Lola Gardner",
     day: 29,
-    month: "may",
+    month: "april",
     image:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
   },
