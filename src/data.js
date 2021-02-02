@@ -2,8 +2,8 @@ const data = [
   {
     id: 1,
     name: "Bertie Yates",
-    day: 29,
-    month: "january",
+    day: 19,
+    month: "march",
     image:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg",
   },
@@ -11,7 +11,7 @@ const data = [
     id: 2,
     name: "Hester Hogan",
     day: 15,
-    month: "january",
+    month: "april",
     image:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg",
   },
@@ -26,7 +26,7 @@ const data = [
   {
     id: 4,
     name: "Sean Walsh",
-    day: 30,
+    day: 20,
     month: "february",
     image:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
@@ -34,8 +34,8 @@ const data = [
   {
     id: 5,
     name: "Lola Gardner",
-    day: 29,
-    month: "april",
+    day: 16,
+    month: "february",
     image:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
   },
