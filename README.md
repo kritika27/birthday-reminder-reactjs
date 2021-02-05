@@ -2,15 +2,15 @@
 
 ## Description
 
-This is a simple App built in ReactJS.
+This is a simple App built in HTML,CSS and ReactJS. It displays all the birthdays of our contacts every month in sorted order.
 
 ## Demo
 
-Link 👉 To be added.
+Link 👉 https://heuristic-euclid-1802a0.netlify.app/
 
 ## Screenshot
 
-To be added.
+![screenshot](https://user-images.githubusercontent.com/4997491/107084858-9fd7ea80-681d-11eb-9e77-96239a76c63f.JPG)
 
 ## Installation
 
