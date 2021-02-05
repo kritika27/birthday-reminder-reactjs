@@ -3,9 +3,9 @@ import data from "./data";
 import "./App.css";
 
 export default function App() {
-  var d = new Date();
-  var n = d.getMonth();
-  switch (n) {
+  var date = new Date();
+  var currentMonth = date.getMonth();
+  switch (currentMonth) {
     case 0:
       var month = "January";
       break;
